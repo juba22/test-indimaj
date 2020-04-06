@@ -163,7 +163,7 @@ body{
     border-radius: 5px;
 }
 .blog img{
-    width: 420px;
+    width: 100%;
     height: 300px;
 }
 .blog .a{
@@ -193,7 +193,7 @@ body{
     border: 1px solid #0057a8!important;
 }
 .blog .under{
-    width: 500px;
+    width: 80%;
     margin: 10px auto;
 }
 .blog .views , .blog .comment{
